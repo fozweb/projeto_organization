@@ -14,7 +14,7 @@ Usaremos um único arquivo.css que será chamado no index.php, demais css de out
 ## Paginas
 
 1. Criar o index - **cabecalho** - **menu** - **rodapé**
-2. Criar Menu de acesso - Link para carregar demais páginas via js
+2. Criar **Menu de acesso** - Link para carregar demais páginas via js
 3. Criar pagina **sobre** - Aréa onde iremos expor as nossas qualidades e um pouco de história
 4. Criar pagina **Padrão de projetos** - Aréa onde iremos expor as tecnologias utilizadas.
 5. Criar página **Portifólio** - Aréa para visualizar projetos já desenvolvidos
